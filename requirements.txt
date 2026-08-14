@@ -1,5 +1,5 @@
-streamlit>=1.36
-tensorflow>=2.16
+streamlit==1.50.0
+tensorflow==2.20.0
 scikit-learn>=1.4
 pandas>=2.0
 numpy>=1.26
